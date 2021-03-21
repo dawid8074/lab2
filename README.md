@@ -1,6 +1,6 @@
 Sterowanie:
-Start 		-spacja
-Obrot		-spacja
+Start 		-spacja \n
+Obrot		-spacja/n
 W lewo		-strzałka w lewo
 W prawo		-strzałka w prawo
 Opuść klocek	-strzałka w dół
