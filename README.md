@@ -1,9 +1,9 @@
 Sterowanie:
 Start 		-spacja \n
-Obrot		-spacja/n
-W lewo		-strzałka w lewo
-W prawo		-strzałka w prawo
-Opuść klocek	-strzałka w dół
+Obrot		-spacja \n
+W lewo		-strzałka w lewo \n
+W prawo		-strzałka w prawo \n
+Opuść klocek	-strzałka w dół \n
 --------------------------------------------------------------------------------------------------
 Pomocne słowicwo:
 -pierwsza płaszczyzna- miejsce gdzie lodują wszystkie zamrożone już klocki
